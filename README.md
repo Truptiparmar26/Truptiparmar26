@@ -121,13 +121,19 @@ and continuously learning emerging technologies. 🚀
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Truptiparmar26&show_icons=true&theme=github_dark&hide_border=true" 
+    alt="Trupti's GitHub Stats"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Truptiparmar26&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truptiparmar26&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truptiparmar26&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
