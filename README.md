@@ -129,23 +129,21 @@ and continuously learning emerging technologies. 🚀
 </div> -->
 ---
 
-## 📊 GitHub Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Truptiparmar26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
-  alt="GitHub Stats"
-/>
-
-<br/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=Truptiparmar26&theme=tokyonight&hide_border=true&border_radius=15&card_width=500" 
-  alt="GitHub Streak"
-/>
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://streak-stats.demolab.com?user=Truptiparmar26&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" 
+    alt="GitHub Streak"
+  />
+</a>
 
 </div>
+
+---
+---
 
 ---
 ---
