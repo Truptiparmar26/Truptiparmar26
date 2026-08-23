@@ -119,32 +119,35 @@ and continuously learning emerging technologies. 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Truptiparmar26&show_icons=true&theme=github_dark&hide_border=true" 
-    alt="Trupti's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truptiparmar26&layout=compact&theme=github_dark&hide_border=true" 
-    alt="Top Languages"
-  />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Truptiparmar26&theme=github-dark-blue&hide_border=true" />
 
+</div> -->
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Truptiparmar26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+  alt="GitHub Stats"
+/>
+
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=Truptiparmar26&theme=tokyonight&hide_border=true&border_radius=15&card_width=500" 
+  alt="GitHub Streak"
+/>
+
 </div>
 
+---
 ---
 ---
 
