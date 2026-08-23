@@ -2,13 +2,16 @@
 
 # Hi 👋, I'm Trupti Parmar
 
-### AI/ML Enthusiast • Data Science • Full Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Solutions+%F0%9F%9A%80;Learn+%E2%80%A2+Build+%E2%80%A2+Grow+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 Passionate about building intelligent solutions, developing scalable applications,
 and continuously learning emerging technologies. 🚀
-
-<img src="https://komarev.com/ghpvc/?username=Truptiparmar26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Truptiparmar26&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Truptiparmar26?label=Followers&style=for-the-badge&color=58A6FF" />
+</p>
 </div>
 
 ---
