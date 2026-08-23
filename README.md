@@ -120,8 +120,6 @@ and continuously learning emerging technologies. 🚀
 
 ---
 
----
-
 
 ## 🔥 GitHub Streak
 
@@ -133,14 +131,6 @@ and continuously learning emerging technologies. 🚀
 
 ---
 
-
-
----
----
-
----
----
----
 
 ## 📫 Connect With Me
 
