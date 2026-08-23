@@ -117,6 +117,8 @@ and continuously learning emerging technologies. 🚀
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -137,6 +139,7 @@ and continuously learning emerging technologies. 🚀
 
 </div>
 
+---
 ---
 
 ## 📫 Connect With Me
