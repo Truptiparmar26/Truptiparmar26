@@ -127,20 +127,14 @@ and continuously learning emerging technologies. 🚀
 <img src="https://streak-stats.demolab.com?user=Truptiparmar26&theme=github-dark-blue&hide_border=true" />
 
 </div> -->
----
-
-## 🔥 GitHub Streak
-
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img 
-    src="https://streak-stats.demolab.com?user=Truptiparmar26&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" 
-    alt="GitHub Streak"
-  />
-</a>
+<img src="https://streak-stats.demolab.com?user=Truptiparmar26&theme=tokyonight&hide_border=true&border_radius=15&card_width=500" />
 
 </div>
+---
+
+
 
 ---
 ---
